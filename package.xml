@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<package format="2">
+
+  <name>challenge2_gazebo</name>
+  <description>Creation of Challenge 2 of MBZIRC in Gazebo</description>
+  
+  <author email="grizzi@ethz.ch">Giuseppe Rizzi</author>
+  <maintainer email="grizzi@ethz.ch">Giuseppe Rizzi</maintainer>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  
+</package>
